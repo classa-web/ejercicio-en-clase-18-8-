@@ -10,6 +10,10 @@ em, strong {
   color:#E5D1D0;
 }
 
-ol, ul {
-  color: #BDBBB6 ;
+ol {
+  color: #BDBBB6;
+}
+
+ul {
+  color: #F5E4D7;
 }
